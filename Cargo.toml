@@ -10,7 +10,7 @@ license = "Apache-2.0"
 readme = "./README.md"
 categories = ["external-ffi-bindings"]
 build = "build.rs"
-links = "cupti-120"
+links = "cupti-126"
 
 [features]
 static-link = [] # default is dynamic link
